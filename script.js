@@ -1,1 +1,1 @@
-alert("Hello man");
+var man = "good boy";
